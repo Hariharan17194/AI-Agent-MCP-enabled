@@ -1,1 +1,0 @@
-AI Agent with MCP Tool Integration — An n8n chat-triggered AI agent that connects to a custom MCP server exposing Google/Amazon search (SerpApi), Google Calendar, Google Sheets, Gmail, and a calculator as tools, with conversation memory via Simple Memory and OpenAI as the LLM backend.
